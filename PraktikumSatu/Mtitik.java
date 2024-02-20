@@ -1,3 +1,7 @@
+//NAME    : GIGIH HAIDAR FALAH
+//NIM     : 24060122140150
+//PRAKTIKUM 1
+
 public class Mtitik {
     public static void main(String[] args) {
         Titik t1 = new Titik();
