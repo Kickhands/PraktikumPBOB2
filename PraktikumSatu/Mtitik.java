@@ -5,14 +5,14 @@
 public class Mtitik {
     public static void main(String[] args) {
         Titik t1 = new Titik();
-        t1.setAbsis(1);
-        t1.setOrdinat(2);
+        t1.setAbsis(2);
+        t1.setOrdinat(3);
 
         Titik t2 = new Titik();
-        t2.setAbsis(3);
-        t2.setOrdinat(4);
+        t2.setAbsis(4);
+        t2.setOrdinat(5);
 
-        Titik t3 = new Titik(2,3);
+        Titik t3 = new Titik(1,2);
 
         System.out.println("jumlah objek titik : " + Titik.getCounterTitik());
 
