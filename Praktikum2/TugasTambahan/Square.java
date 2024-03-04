@@ -1,4 +1,6 @@
-
+    //NAME    : GIGIH HAIDAR FALAH
+    //NIM     : 24060122140150
+    //PRAKTIKUM 2
 
 public class Square {
     private double side;
